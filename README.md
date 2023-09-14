@@ -64,4 +64,4 @@ bash install_cloudwaf.sh offline
 >1. GitHub Issue 
 >2. WX 二维码
 
-<img src="https://www.bt.cn/static/cloudwaf/wx.png" width="70%" />
+<img src="./img/wx.png" width="70%" />
