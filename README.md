@@ -2,7 +2,7 @@
 <img src="https://www.bt.cn/static/new/images/logo.svg" alt="Btwaf " width="300"/>
 </div>
 
-<h1 align="center">堡塔云WAF-安装量超50W</h1>
+<h1 align="center">堡塔云WAF</h1>
 
 <div align="center">
 
