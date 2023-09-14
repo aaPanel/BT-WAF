@@ -54,6 +54,8 @@ Packs=("curl" "tar" "gzip" "netstat" "ss" "docker" ); for pack in "${Packs[@]}";
 bash install_cloudwaf.sh offline
 ```
 <p align="center">
+    <img width="239" alt="image" src="https://github.com/aaPanel/BT-WAF/assets/31841517/4261470d-29b7-4d0d-ad7d-b208c11b576c">
+
     <img src="./img/lixian.png">
 </p>
 
