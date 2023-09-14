@@ -58,3 +58,10 @@ bash install_cloudwaf.sh offline
 > 安装完成后，登录步骤与在线相同
 
 
+
+
+##  联系我们
+>1. GitHub Issue 
+>2. WX 二维码
+
+<img src="https://www.bt.cn/static/cloudwaf/wx.png" width="70%" />
