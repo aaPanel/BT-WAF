@@ -22,7 +22,7 @@
 
 ## 堡塔云WAF工作原理图
 <p align="center">
-    <img src="./img/btwaf.png"  width="1024">
+    <img src="./img/btwaf.png">
 </p>
 
 
@@ -32,7 +32,7 @@
 URL=https://download.bt.cn/cloudwaf/scripts/install_cloudwaf.sh && if [ -f /usr/bin/curl ];then curl -sSO "$URL" ;else wget -O install_cloudwaf.sh "$URL";fi;bash install_cloudwaf.sh
 ```
 <p align="center">
-    <img src="./img/install.png"  width="1024">
+    <img src="./img/install.png">
 </p>
 
 ## 离线安装
@@ -53,7 +53,7 @@ Packs=("curl" "tar" "gzip" "netstat" "ss" "docker" ); for pack in "${Packs[@]}";
 bash install_cloudwaf.sh offline
 ```
 <p align="center">
-    <img src="./img/lixian.png"  width="1024">
+    <img src="./img/lixian.png">
 </p>
 
 > 安装完成后，登录步骤与在线相同
