@@ -8,7 +8,7 @@
 
 [![BTWAF](https://img.shields.io/badge/btwaf-BTWAF-blue)](https://github.com/aaPanel/BT-WAF)
 [![openresty](https://img.shields.io/badge/openresty-luajit-blue)](https://github.com/aaPanel/BT-WAF)
-[![version](https://img.shields.io/github/release/aaPanel/BT-WAF.svg?color=blue)](https://github.com/aaPanel/BT-WAF)
+[![version](https://img.shields.io/github/v/release/aaPanel/BT-WAF.svg?color=blue)](https://github.com/aaPanel/BT-WAF)
 [![social](https://img.shields.io/github/stars/aaPanel/BT-WAF?style=social)](https://github.com/aaPanel/BT-WAF)
 
 </div>
