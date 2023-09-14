@@ -35,7 +35,6 @@ URL=https://download.bt.cn/cloudwaf/scripts/install_cloudwaf.sh && if [ -f /usr/
     <img src="./img/install.png">
 </p>
 
-## 离线安装
 ## **离线安装**
 > 注意，此安装方式适用于服务器无法连接公网节点时的选择
 * 离线安装时必须手动安装 docker，否则无法安装
