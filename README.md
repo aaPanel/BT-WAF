@@ -54,7 +54,6 @@ Packs=("curl" "tar" "gzip" "netstat" "ss" "docker" ); for pack in "${Packs[@]}";
 bash install_cloudwaf.sh offline
 ```
 <p align="center">
-
     <img src="./img/lixian.png">
 </p>
 
