@@ -13,7 +13,7 @@
 
 </div>
 <p align="center">
-  <a href="https://www.bt.cn/">堡塔官网</a> | 
+  <a href="https://www.bt.cn/new/btwaf.html">官网</a> | 
   <a href="https://www.kancloud.cn/kern123/cloudwaf/3198565">使用教程</a>
 </p>
 
