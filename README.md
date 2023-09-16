@@ -27,6 +27,8 @@
 </p>
 
 
+
+
 ## 在线安装
 使用SSH工具登录服务器，执行以下命令安装：
 ```shell
@@ -57,6 +59,13 @@ bash install_cloudwaf.sh offline
 </p>
 
 > 安装完成后，登录步骤与在线相同
+
+
+## 功能介绍
+1.首页大屏
+<p align="center">
+    <img src="./img/waf.png">
+</p>
 
 
 
