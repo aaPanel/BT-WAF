@@ -12,6 +12,10 @@
 [![social](https://img.shields.io/github/stars/aaPanel/BT-WAF?style=social)](https://github.com/aaPanel/BT-WAF)
 
 </div>
+<p align="center">
+  <a href="https://www.bt.cn/">堡塔官网</a> | 
+  <a href="https://www.kancloud.cn/kern123/cloudwaf/3198565">使用教程</a>
+</p>
 
 
 ## 堡塔云WAF介绍
