@@ -24,6 +24,10 @@
 经过堡塔云WAF检测和过滤后，再转给原来提供服务的网站服务器。
 堡塔云WAF是一个开源的Web应用程序防火墙，它可以保护网站免受SQL注入，XSS，CSRF，SSRF，命令注入，代码注入，本地文件包含，远程文件包含等攻击
 
+## 在线演示(Demo)
+演示地址：https://btwaf-demo.bt.cn:8379/c0edce7a<br/>
+用户: 229a96f9<br/>
+密码: e96ae8a8<br/>
 
 ## 堡塔云WAF工作原理图
 <p align="center">
