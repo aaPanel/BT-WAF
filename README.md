@@ -14,7 +14,8 @@
 </div>
 <p align="center">
   <a href="https://www.bt.cn/new/btwaf.html">官网</a> | 
-  <a href="https://www.kancloud.cn/kern123/cloudwaf/3198565">使用教程</a>
+  <a href="https://www.kancloud.cn/kern123/cloudwaf/3198565">使用教程</a> |
+  <a href="https://btwaf-demo.bt.cn:8379/c0edce7a">演示站(Demo)</a>
 </p>
 
 
@@ -26,8 +27,6 @@
 
 ## 在线演示(Demo)
 演示地址：https://btwaf-demo.bt.cn:8379/c0edce7a<br/>
-用户: 229a96f9<br/>
-密码: e96ae8a8<br/>
 
 ## 堡塔云WAF工作原理图
 <p align="center">
