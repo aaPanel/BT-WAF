@@ -82,4 +82,5 @@ bash install_cloudwaf.sh offline
 ##  联系我们
 >1. GitHub Issue 
 >2. WX 二维码
-<img width="239" alt="image" src="https://github.com/aaPanel/BT-WAF/assets/31841517/8f104f43-5b59-4d5d-a0dc-423595342ef1">
+<img width="239" alt="image" src="https://github.com/aaPanel/BT-WAF/assets/31841517/3de89908-b25e-4fee-801e-072afe87c169">
+
