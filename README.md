@@ -71,13 +71,15 @@ bash install_cloudwaf.sh offline
 
 
 ## 功能介绍
-1.首页大屏
+1.首页概览
 <p align="center">
-    <img src="./img/waf.png">
+    <img width="1941" alt="image" src="https://github.com/aaPanel/BT-WAF/assets/31841517/19762b6c-bd79-4bda-bd99-ea1af54c17c2">
 </p>
 
-
-
+2.拦截记录
+<p align="center">
+    <img width="1986" alt="image" src="https://github.com/aaPanel/BT-WAF/assets/31841517/bf1b113e-143d-4e58-8bf2-a75d21f54f64">
+</p>
 
 ##  联系我们
 >1. GitHub Issue 
