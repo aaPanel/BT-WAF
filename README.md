@@ -15,7 +15,8 @@
 <p align="center">
   <a href="https://www.bt.cn/new/btwaf.html">官网</a> | 
   <a href="https://www.kancloud.cn/kern123/cloudwaf/3198565">使用教程</a> |
-  <a href="https://btwaf-demo.bt.cn:8379/c0edce7a">演示站(Demo)</a>
+  <a href="https://btwaf-demo.bt.cn:8379/c0edce7a">演示站(Demo)</a> |
+  <a href="https://yenvb8apub.feishu.cn/sheets/AQafs3FTEhYw8VtEXPJccZwdnUh">ARM和国产系统兼容表</a>
 </p>
 
 
@@ -26,6 +27,9 @@
 采用反向代理的方式,网站流量先抵达堡塔云WAF
 经过堡塔云WAF检测和过滤后，再转给原来提供服务的网站服务器。
 堡塔云WAF是一个开源的Web应用程序防火墙，它可以保护网站免受SQL注入，XSS，CSRF，SSRF，命令注入，代码注入，本地文件包含，远程文件包含等攻击
+**兼容ARM和国产系统**
+
+
 
 ## 在线演示(Demo)
 演示地址：https://btwaf-demo.bt.cn:8379/c0edce7a<br/>
