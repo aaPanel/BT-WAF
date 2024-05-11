@@ -85,6 +85,11 @@ bash install_cloudwaf.sh offline
     <img width="1986" alt="image" src="https://github.com/aaPanel/BT-WAF/assets/31841517/bf1b113e-143d-4e58-8bf2-a75d21f54f64">
 </p>
 
+3.命中记录
+<p align="center">
+    <img width="1986" alt="image" src="./img/rule_git.png">
+</p>
+
 ##  联系我们
 >1. GitHub Issue 
 >2. WX 二维码
