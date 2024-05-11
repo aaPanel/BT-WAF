@@ -90,6 +90,11 @@ bash install_cloudwaf.sh offline
     <img width="1986" alt="image" src="./img/rule_git.png">
 </p>
 
+4.攻击地图
+<p align="center">
+    <img width="1986" alt="image" src="./img/wafMap.png">
+</p>
+
 ##  联系我们
 >1. GitHub Issue 
 >2. WX 二维码
