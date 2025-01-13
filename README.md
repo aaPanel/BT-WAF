@@ -17,6 +17,7 @@
   <a href="https://www.kancloud.cn/kern123/cloudwaf/3198565">使用教程</a> |
   <a href="https://btwaf-demo.bt.cn:8379/c0edce7a">演示站(Demo)</a> |
   <a href="https://yenvb8apub.feishu.cn/sheets/AQafs3FTEhYw8VtEXPJccZwdnUh">ARM和国产系统兼容表</a>
+<a href="./Update.md">更新日志</a>
 </p>
 
 
