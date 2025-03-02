@@ -20,6 +20,9 @@
 <a href="./Update.md">更新日志</a>
 </p>
 
+## International version <a href="./english.md">install </a>
+
+
 
 ## 堡塔云WAF介绍
 
