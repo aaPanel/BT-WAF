@@ -75,6 +75,10 @@ bash install_cloudwaf.sh offline
 
 
 ## Function Introduction
+0.3D map
+<p align="center">
+    <img width="1941" alt="image" src="./img/222.gif">
+</p>
 1.Home Overview
 <p align="center">
     <img width="1941" alt="image" src="https://github.com/aaPanel/BT-WAF/assets/31841517/19762b6c-bd79-4bda-bd99-ea1af54c17c2">
