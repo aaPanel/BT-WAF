@@ -79,6 +79,10 @@ bash install_cloudwaf.sh offline
 
 
 ## 功能介绍
+0.3D攻击地图
+<p align="center">
+    <img width="1941" alt="image" src="./img/222.gif">
+</p>
 1.首页概览
 <p align="center">
     <img width="1941" alt="image" src="https://github.com/aaPanel/BT-WAF/assets/31841517/19762b6c-bd79-4bda-bd99-ea1af54c17c2">
