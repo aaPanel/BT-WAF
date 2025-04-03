@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name": "首页概览",
+        "uri": "/dashboard",
+        "child": []
+    },
+    {
+        "id": 2,
+        "name": "网站列表",
+        "uri": "/site",
+        "child": []
+    },
+    {
+        "id": 3,
+        "name": "拦截日志",
+        "uri": "/attack",
+        "child": []
+    },
+    {
+        "id": 4,
+        "name": "黑白名单",
+        "uri": "/rule",
+        "child": []
+    },
+    {
+        "id": 5,
+        "name": "地区限制",
+        "uri": "/area",
+        "child": []
+    },
+    {
+        "id": 6,
+        "name": "人机验证",
+        "uri": "/recaptcha",
+        "child": []
+    },
+    {
+        "id": 7,
+        "name": "全局规则",
+        "uri": "/global",
+        "child": []
+    },
+    {
+        "id": 8,
+        "name": "操作日志",
+        "uri": "/logs",
+        "child": []
+    },
+    {
+        "id": 9,
+        "name": "设置",
+        "uri": "/config",
+        "child": []
+    },
+    {
+        "id": 10,
+        "name": "退出",
+        "uri": "/logout",
+        "child": []
+    },
+    {
+        "id": 10,
+        "name": "最大ID",
+        "uri": "",
+        "child": []
+    }
+]

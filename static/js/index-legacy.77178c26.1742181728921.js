@@ -1,0 +1,1 @@
+System.register(["./index-legacy.b0161ddd.1742181728921.js","./vue-legacy.fb39cc53.1742181728921.js"],(function(t,e){"use strict";var n,r,s,u;return{setters:[function(t){n=t._},function(t){r=t.o,s=t.S,u=t.B}],execute:function(){var e={class:"mb-12px text-15px text-[#666] font-bold"};t("_",n({},[["render",function(t,n){return r(),s("div",e,[u(t.$slots,"default")])}]]))}}}));

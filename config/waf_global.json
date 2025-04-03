@@ -1,0 +1,113 @@
+{
+    "black_status": 403,
+    "database": {
+        "user": "btwaf",
+        "password": "www.bt.cn",
+        "host": "127.0.0.1",
+        "port": 33060,
+        "database": "btwaf"
+    },
+    "number_attacks": {
+        "retry_cycle": 120,
+        "retry": 10,
+        "retry_time": 600,
+        "ps": "攻击次数拦截"
+    },
+    "cc": {
+        "status": 444,
+        "cc_type_status": 2,
+        "limit": 120,
+        "endtime": 300,
+        "open": true,
+        "cycle": 60,
+        "ps": "基础CC防护"
+    },
+    "sql": {
+        "mode": 2,
+        "ps": "SQL注入拦截"
+    },
+    "xss": {
+        "mode": 3,
+        "ps": "XSS注入拦截"
+    },
+    "file_upload": {
+        "status": 444,
+        "mode": 2,
+        "ps": "文件上传木马拦截"
+    },
+    "from_data": {
+        "mode": 2,
+        "ps": "畸形文件上传协议检测"
+    },
+    "php_eval": {
+        "mode": 3,
+        "ps": "PHP代码执行检测"
+    },
+    "ssrf": {
+        "mode": 3,
+        "ps": "ssrf代码执行检测"
+    },
+    "nday": {
+        "mode": 3,
+        "ps": "通用漏洞检测"
+    },
+    "download": {
+        "mode": 2,
+        "ps": "恶意下载防御"
+    },
+    "user_agent": {
+        "mode": 3,
+        "ps": "恶意爬虫防御"
+    },
+    "scan": {
+        "mode": 2,
+        "ps": "扫描器防御"
+    },
+    "file_import": {
+        "mode": 2,
+        "ps": "文件包含防御"
+    },
+    "file_scan": {
+        "mode": 2,
+        "ps": "目录扫描防御",
+        "limit": 30,
+        "cycle": 30
+    },
+    "no_browser": {
+        "mode": 3,
+        "ps": "非浏览器检测"
+    },
+    "host": {
+        "mode": 3,
+        "ps": "Host头攻击防御"
+    },
+    "cookie": {
+        "mode": 1,
+        "ps": "cookie头攻击防御"
+    },
+    "method_type": {
+        "POST": true,
+        "GET": true,
+        "PUT": true,
+        "OPTIONS": true,
+        "HEAD": true,
+        "DELETE": true,
+        "TRACE": true,
+        "PATCH": true,
+        "CONNECT": true
+    },
+    "header_len": {
+        "host": 500,
+        "connection": 100,
+        "content-length": 100,
+        "cache-control": 100,
+        "upgrade-insecure-requests": 100,
+        "origin": 500,
+        "content-type": 300,
+        "accept": 500,
+        "referer": 10000,
+        "accept-encoding": 500,
+        "accept-language": 500
+    },
+    "machine_verify_type": "js"
+}

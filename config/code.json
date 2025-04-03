@@ -1,0 +1,15 @@
+{
+  "Height": 40,
+  "Width": 100,
+  "NoiseCount": 0,
+  "ShowLineOptions": 2,
+  "Length": 4,
+  "Source": "34578abcdefhjkmnprstuvwxy",
+  "BgColor": {
+    "R": 40,
+    "G": 30,
+    "B": 89,
+    "A": 29
+  },
+  "Fonts": ["fonts/RitaSmith.ttf"]
+}

@@ -1,0 +1,1 @@
+System.register(["./index-legacy.b0161ddd.1742181728921.js","./vue-legacy.fb39cc53.1742181728921.js"],(function(e,t){"use strict";var n,s,i,r;return{setters:[function(e){n=e._},function(e){s=e.o,i=e.S,r=e.B}],execute:function(){var t={class:"list-inside list-disc leading-24px text-[#777]"};e("_",n({},[["render",function(e,n){return s(),i("ul",t,[r(e.$slots,"default")])}]]))}}}));

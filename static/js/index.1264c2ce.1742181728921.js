@@ -1,0 +1,1 @@
+import{_ as t}from"./index.fc641b56.1742181728921.js";import{o as s,S as o,B as e}from"./vue.314199b7.1742181728921.js";const r={class:"mb-12px text-15px text-[#666] font-bold"};const n=t({},[["render",function(t,n){return s(),o("div",r,[e(t.$slots,"default")])}]]);export{n as _};

@@ -1,0 +1,11 @@
+{
+    "accept_domain": "",
+    "accept_ip": [],
+    "admin_path": "",
+    "ntptime": false,
+    "password_complexity": true,
+    "password_expire": 0,
+    "session_timeout": 120,
+    "warning_open": true,
+    "worker": true
+}

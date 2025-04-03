@@ -1,0 +1,1 @@
+System.register([],(function(t,e){"use strict";return{execute:function(){t("g",(function(t){var e=arguments.length>1&&void 0!==arguments[1]?arguments[1]:"default",n=arguments.length>2&&void 0!==arguments[2]?arguments[2]:[],i=t.$slots[e];return void 0===i?n:i()}))}}}));

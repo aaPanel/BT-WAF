@@ -1,0 +1,6 @@
+{
+    "default": {
+        "DbFile": "data/data.db",
+        "PreFix": "bt_"
+    }
+}

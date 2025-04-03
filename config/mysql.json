@@ -1,0 +1,10 @@
+{
+    "default": {
+        "Host": "192.168.66.252",
+        "Port": 33060,
+        "UserName": "root",
+        "Password": "www.bt.cn",
+        "DbName": "btwaf",
+        "PreFix": ""
+    }
+}

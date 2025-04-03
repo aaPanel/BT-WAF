@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "攻击报表",
+        "module": "report",
+        "read": [
+            {
+                "id": 2,
+                "name": "获取拦截日志",
+                "uri": "/report/attack_report_log"
+            }
+        ],
+        "write": [
+            {
+                "id": 3,
+                "name": "解封IP",
+                "uri": "/report/unset_ip"
+            },
+            {
+                "id": 4,
+                "name": "解封所有IP",
+                "uri": "/report/unset_all_ip"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "授权",
+        "module": "auth",
+        "read": [
+            {
+                "id": 6,
+                "name": "获取授权信息",
+                "uri": "/auth/info"
+            }
+        ],
+        "write": [
+            {
+                "id": 7,
+                "name": "绑定堡塔账号",
+                "uri": "/auth/login"
+            },
+            {
+                "id": 8,
+                "name": "解绑堡塔账号",
+                "uri": "/auth/logout"
+            },
+            {
+                "id": 9,
+                "name": "激活授权",
+                "uri": "/auth/activate_license"
+            },
+            {
+                "id": 10,
+                "name": "下单",
+                "uri": "/auth/create_order"
+            },
+            {
+                "id": 11,
+                "name": "提交NPS问卷",
+                "uri": "/auth/submit_nps"
+            },
+            {
+                "id": 12,
+                "name": "领取14天专业版试用",
+                "uri": "/auth/obtain_trial"
+            },
+            {
+                "id": 13,
+                "name": "下单",
+                "uri": "/auth/create_order"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "最大ID",
+        "module": "max_id",
+        "read": [],
+        "write": []
+    }
+]

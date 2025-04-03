@@ -1,0 +1,144 @@
+{
+    "mode": 2,
+    "cdn": true,
+    "cdn_baidu": false,
+    "cdn_header": [
+        "x-forwarded-for",
+        "x-real-ip",
+        "x-forwarded",
+        "forwarded-for",
+        "forwarded",
+        "true-client-ip",
+        "client-ip",
+        "ali-cdn-real-ip",
+        "cdn-src-ip",
+        "cdn-real-ip",
+        "cf-connecting-ip",
+        "x-cluster-client-ip",
+        "wl-proxy-client-ip",
+        "proxy-client-ip",
+        "true-client-ip"
+    ],
+    "number_attacks": {
+        "retry_cycle": 120,
+        "retry": 10,
+        "retry_time": 600,
+        "ps": "攻击次数拦截"
+    },
+    "smart_cc": {
+        "status": 444,
+        "open": false,
+        "max_avg_proxy_time": 200,
+        "max_err_count": 10,
+        "expire": 120,
+        "max_qps": 10,
+        "ip_drop_time": 3600,
+        "ps": "智能CC防护"
+    },
+    "cc": {
+        "status": 444,
+        "cc_type_status": 2,
+        "limit": 120,
+        "endtime": 300,
+        "open": true,
+        "cycle": 60,
+        "is_cc_url":true,
+        "ps": "基础CC防护"
+    },
+    "sql": {
+        "mode": 3,
+        "ps": "SQL注入拦截"
+    },
+    "xss": {
+        "mode": 3,
+        "ps": "XSS注入拦截"
+    },
+    "file_upload": {
+        "status": 444,
+        "mode": 3,
+        "ps": "文件上传木马拦截"
+    },
+    "from_data": {
+        "mode": 3,
+        "ps": "畸形文件上传协议检测"
+    },
+    "php_eval": {
+        "mode": 2,
+        "ps": "PHP代码执行检测"
+    },
+    "ssrf": {
+        "mode": 2,
+        "ps": "ssrf代码执行检测"
+    },
+    "download": {
+        "mode": 2,
+        "ps": "恶意下载防御"
+    },
+    "user_agent": {
+        "mode": 2,
+        "ps": "恶意爬虫防御"
+    },
+    "scan": {
+        "mode": 2,
+        "ps": "扫描器防御"
+    },
+    "file_import": {
+        "mode": 2,
+        "ps": "文件包含防御"
+    },
+    "cookie": {
+        "mode": 2,
+        "ps": "cookie头攻击防御"
+    },
+    "disable_php_path": [
+        "^/cache/",
+        "^/config/",
+        "^/runtime/",
+        "^/application/",
+        "^/temp/",
+        "^/logs/",
+        "^/log/"
+    ],
+    "disable_ext": [
+        "sql",
+        "bak",
+        "swp"
+    ],
+    "disable_upload_ext": [
+        "php",
+        "jsp"
+    ],
+    "rce": {
+        "mode": 1,
+        "ps": "命令执行拦截"
+    },
+    "idc": {
+        "mode": 0,
+        "ps": "禁止IDC访问"
+    },
+    "admin_protect": [],
+    "readonly": {
+        "open": false,
+        "ps": "只读模式,请勿在非攻防演练时开启,开启后将会影响用户登录、支付、搜索、注册、评论等功能"
+    },
+    "crawler": {
+		"encryption": {
+			"open": false,
+            "type": "default",
+            "text": ""
+		},
+		"watermark": {
+			"open": false,
+            "type": "default",
+            "text": ""
+		}
+	},
+    "wait": {
+        "open": false,
+        "time": 10,
+        "user": 50,
+        "qps": 0,
+        "type": "default",
+        "text": ""
+    }
+}
